@@ -1,0 +1,45 @@
+# Node dependencies
+node_modules/
+
+# pnpm store and debug
+.pnpm-store/
+.pnpm-debug.log
+
+# Optional workspace config (ignored locally if you don't want it tracked)
+pnpm-workspace.yaml
+
+# Build outputs
+dist/
+build/
+.vite/
+out/
+.cache/
+coverage/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Misc
+.eslintcache
+.parcel-cache/
+.turbo/
+.next/
+/.pnp/
+
+# Keep example env files
+!.env.example
