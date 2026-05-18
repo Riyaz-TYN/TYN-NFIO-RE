@@ -1,0 +1,8 @@
+{
+  "name": "@tyn/frontend-platform",
+  "private": true,
+  "workspaces": [
+    "shared-ui",
+    "invoice-analyzer-ui"
+  ]
+}
