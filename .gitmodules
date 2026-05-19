@@ -1,0 +1,6 @@
+[submodule "frontend/okjvoasi"]
+	path = frontend/okjvoasi
+	url = https://github.com/Riyaz-TYN/okjvoasi.git
+[submodule "frontend/iygiutfrd"]
+	path = frontend/iygiutfrd
+	url = https://github.com/Riyaz-TYN/iygiutfrd.git
