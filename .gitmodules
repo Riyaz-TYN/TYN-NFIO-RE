@@ -4,3 +4,6 @@
 [submodule "frontend/iygiutfrd"]
 	path = frontend/iygiutfrd
 	url = https://github.com/Riyaz-TYN/iygiutfrd.git
+[submodule "frontend/Serevfj"]
+	path = frontend/Serevfj
+	url = https://github.com/Riyaz-TYN/Serevfj.git
