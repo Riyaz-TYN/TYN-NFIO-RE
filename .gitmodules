@@ -10,3 +10,6 @@
 [submodule "frontend/amazon-app"]
 	path = frontend/amazon-app
 	url = https://github.com/Riyaz-TYN/amazon-app.git
+[submodule "frontend/Demo-ui"]
+	path = frontend/Demo-ui
+	url = https://github.com/Riyaz-TYN/Demo-ui.git
