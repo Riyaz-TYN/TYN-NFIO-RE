@@ -7,3 +7,6 @@
 [submodule "frontend/warehouse-frontend"]
 	path = frontend/warehouse-frontend
 	url = https://github.com/Riyaz-TYN/warehouse-frontend.git
+[submodule "frontend/amazon-app"]
+	path = frontend/amazon-app
+	url = https://github.com/Riyaz-TYN/amazon-app.git
