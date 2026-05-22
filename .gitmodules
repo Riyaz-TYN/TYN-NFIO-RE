@@ -4,3 +4,6 @@
 [submodule "frontend/reshmi-app15"]
 	path = frontend/reshmi-app15
 	url = https://github.com/Riyaz-TYN/reshmi-app15.git
+[submodule "frontend/warehouse-frontend"]
+	path = frontend/warehouse-frontend
+	url = https://github.com/Riyaz-TYN/warehouse-frontend.git
