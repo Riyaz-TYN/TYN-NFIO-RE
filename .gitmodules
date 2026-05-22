@@ -1,9 +1,12 @@
-[submodule "frontend/okjvoasi"]
-	path = frontend/okjvoasi
-	url = https://github.com/Riyaz-TYN/okjvoasi.git
-[submodule "frontend/iygiutfrd"]
-	path = frontend/iygiutfrd
-	url = https://github.com/Riyaz-TYN/iygiutfrd.git
-[submodule "frontend/Serevfj"]
-	path = frontend/Serevfj
-	url = https://github.com/Riyaz-TYN/Serevfj.git
+[submodule "frontend/reshmi-app"]
+	path = frontend/reshmi-app
+	url = https://github.com/Riyaz-TYN/reshmi-app.git
+[submodule "frontend/reshmi-app15"]
+	path = frontend/reshmi-app15
+	url = https://github.com/Riyaz-TYN/reshmi-app15.git
+[submodule "frontend/warehouse-frontend"]
+	path = frontend/warehouse-frontend
+	url = https://github.com/Riyaz-TYN/warehouse-frontend.git
+[submodule "frontend/amazon-app"]
+	path = frontend/amazon-app
+	url = https://github.com/Riyaz-TYN/amazon-app.git
